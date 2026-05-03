@@ -1,4 +1,4 @@
-# Zomato Restaurant Analysis & Dining Rating Prediction
+# Zomato Restaurants Analysis & Dining Rating Prediction
 
 Exploratory data analysis and machine learning on Bangalore and Pune restaurant data to predict dining ratings.
 
